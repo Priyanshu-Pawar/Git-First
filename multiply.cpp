@@ -4,6 +4,6 @@ int main()
 {
     int a = 10, b = 20;
     int mul = a * b;
-    cout << "The sum is" << mul;
+    cout << "The multiply is" << mul;
     return 0;
 }
